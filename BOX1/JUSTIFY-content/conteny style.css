@@ -1,0 +1,205 @@
+.top {
+    display: flex;
+    height: 400px;
+    display: flex;
+    border: 5px solid red;
+    justify-content: flex-end;
+
+}
+
+.box {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.box1 {
+    background-color: aqua;
+
+}
+
+.box2 {
+    background-color: yellow;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.top2 {
+    color: black;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.wazir {
+    display: flex;
+    height: 400px;
+    display: flex;
+    border: 5px solid red;
+    justify-content: flex-start;
+
+}
+
+.danish {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.danish1 {
+    background-color: aqua;
+
+}
+
+.danish2 {
+    background-color: yellow;
+}
+
+.danish3 {
+    background-color: blue;
+}
+
+.danish22 {
+    color: black;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.burki {
+    
+    height: 400px;
+    display: flex;
+    border: 5px solid red;
+    justify-content: center;
+
+}
+
+.nasir {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    /* margin-bottom: 20px;
+    margin-top: 20px; */
+
+}
+
+.nasir1 {
+    background-color: aqua;
+
+}
+
+.nasir2 {
+    background-color: yellow;
+}
+
+.nasir3 {
+    background-color: blue;
+}
+
+.ihsan20 {
+    color: black;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+.mehsood {
+    
+    height: 400px;
+    display: flex;
+    border: 5px solid red;
+    justify-content: space-around;
+
+}
+
+.ihsan {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    /* margin-bottom: 20px;
+    margin-top: 20px; */
+
+}
+
+.ihsan1 {
+    background-color: aqua;
+
+}
+
+.ihsan2 {
+    background-color: yellow;
+}
+
+.ihsan3 {
+    background-color: blue;
+}
+
+/* .nasir23 {
+    color: black;
+    border: 4px solid black;
+    background-color: yellow;
+} */
+.nana {
+    display: flex;
+    height: 400px;
+    display: flex;
+    border: 5px solid red;
+    justify-content:space-around;
+
+}
+
+.gul {
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+.gul1 {
+    background-color: aqua;
+
+}
+
+.gul2 {
+    background-color: yellow;
+}
+
+.gul3 {
+    background-color: blue;
+}
+
+.fazal50 {
+    color: black;
+    border: 4px solid black;
+    background-color: yellow;
+}
+
+a:link{
+    color:aqua ;
+
+}
+a:visited{
+    color:rgb(33, 33, 226);
+}
+
+a:hover{
+    color:red ;
+}
+a:active{
+    color:black ; 
+}
+
+
